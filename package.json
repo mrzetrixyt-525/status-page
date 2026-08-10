@@ -1,0 +1,14 @@
+{
+  "name": "mrzetrix-status",
+  "version": "1.0.0",
+  "private": true,
+  "description": "24/7 Minecraft hosting status monitor with admin panel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
