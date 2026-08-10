@@ -24,11 +24,12 @@ A lightweight 24/7 status monitor for Minecraft hosting services, websites, APIs
 - npm
 - PM2 for production 24/7 operation
 
-## ⤵️ Install
-Cloning
+## ⤵️ Install Prosses
+Cloning Project
 ```bash
-git clone
+git clone https://github.com/mrzetrixyt-525/status-page
 ```
+Run
 ```bash
 npm install
 npm start
